@@ -1,0 +1,6 @@
+Valor_Unitario: - 131.00
+Valor_do_Imposto - 13.10
+Valor_do_transporte- 50.00
+Valor_do_seguro - 0.00
+Valor_total_do_Produto_com_Impostos - 194.10
+Valor_total_de_Impostos- 63.10

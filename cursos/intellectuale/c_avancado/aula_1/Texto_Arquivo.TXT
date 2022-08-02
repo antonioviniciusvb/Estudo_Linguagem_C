@@ -1,0 +1,7 @@
+Codigo_Produto - 4
+Peso_da_Grama - 10000.00
+Valor_total_do_produto - 100000.00
+Imposto - 0.00
+Valor_do_Imposto - 0.00
+Valor_total_com_imposto - 100000.00
+
