@@ -1,0 +1,9 @@
+
+Lógica de Programação com Linguagem C
+
+EXERCÍCIOS Matrizes.
+
+1) Criar uma matriz com 2 linhas X 4 colunas. Receber os dados da mesma via teclado e calcular a somatória dos valores da matriz.
+
+
+2) Criar uma matriz com 3 linhas e 3 colunas e encontrar o maior e o menor valor presente na diagonal principal da matriz. 

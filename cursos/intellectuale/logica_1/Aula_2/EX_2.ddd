@@ -1,0 +1,36 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main (void)
+
+{
+    float a, peso ideal;
+    char sexo;
+
+    print("escreva sua altura");
+    scanf ("%f", &a);
+    print ("digite seu sexo,M ou F");
+    scanf ("%c", &sexo);
+
+    if (sexo=='m')
+
+{
+    peso ideal = (72,7*a)-62;
+    printf("seu peso ideal e = %2.f\n", peso ideal);
+
+}
+
+else (sexo=='f')
+
+{
+    peso ideal =(62,1 *a)-48,7;
+    printf("seu peso ideal e = %2.f\n", peso ideal);
+}
+    system("pause");
+    return(0);
+
+
+
+
+
+}

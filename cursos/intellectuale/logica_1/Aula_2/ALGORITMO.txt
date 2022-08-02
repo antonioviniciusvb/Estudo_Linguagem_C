@@ -1,0 +1,39 @@
+14.03.2015
+se locomover ao deposito.
+compre a lampada.
+volte para casa.
+procure a escada.
+leve a escada para o local de troca.
+suba na escada para facil acesso.
+tirar a lampada queimada.
+introduza a lampada comprada no lugar da queimada.
+desca da escada.
+teste a lampada comprada.
+
+
+
+
+
+ elaboração de calculo médio para aluno que realizou 2 provas.
+
+
+-inicio
+
+- digite o nome do aluno. 
+
+-receba o nome 
+
+-receba notas do aluno em questão.
+
+- efetue seguinte formula: Média=(n1 + n2)/2 
+                               
+- exibir Média.
+
+-fim
+
+
+
+
+
+
+  
